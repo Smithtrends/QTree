@@ -1,0 +1,14 @@
+{
+  "name": "e84bba387266c1a5",
+  "main": "e84bba387266c1a5@137.js",
+  "version": "137.0.0",
+  "homepage": "https://observablehq.com/d/e84bba387266c1a5",
+  "author": {
+    "name": "smithtrends",
+    "url": "https://observablehq.com/@smithtrends"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
